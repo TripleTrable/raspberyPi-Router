@@ -1,0 +1,9 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/TripleTrable/buildroot.git
+[submodule "wifi2eth"]
+	path = wifi2eth
+	url = https://github.com/TripleTrable/Wifi2Eth.git
+[submodule "btnPower"]
+	path = btnPower
+	url = https://github.com/TripleTrable/btnPower.git
