@@ -7,3 +7,6 @@
 [submodule "btnPower"]
 	path = btnPower
 	url = https://github.com/TripleTrable/btnPower.git
+[submodule "crosstool-ng"]
+	path = crosstool-ng
+	url = https://github.com/crosstool-ng/crosstool-ng.git
